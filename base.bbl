@@ -1,0 +1,156 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{modernrc}
+\selectlanguageifdefined{russian}
+{\Russian Пикаев, А. К.},. Современная
+  радиационная химия. Радиолиз жидкостей и
+  газов~/ {\Russian Пикаев, А. К.} "---
+\newblock М.: Наука, 1986. "---
+\newblock 440~{\cyr\cyrs.}
+
+\bibitem{IonProc}
+\selectlanguageifdefined{russian}
+{\Russian Белевский, В. Н.},. Ионные процессы в
+  радиационной химии кислородосодержащих
+  соединений в конденсированной фазе~/ {\Russian
+  Белевский, В. Н.}~// Вестн. моск. ун-та. Сер. 2.
+  Химия. "---
+\newblock 2001. "---
+\newblock \CYRT.~42. "---
+\newblock {\cyr\CYRS.}~205--219.
+
+\bibitem{feldman}
+\selectlanguageifdefined{english}
+Radiation chemistry of organic molecules in solid rare gas matrices: 2.
+  selective deprotonation of the primary radical cations upon irradiation of
+  oxygen-containing molecules in xenon matrices~/ V.~I. Feldman, F.~F. Sukhov,
+  A.~Y. Orlov, N.~A. Shmakova~// High Energy Chemistry. "---
+\newblock 2001. "---
+\newblock Vol.~35. "---
+\newblock P.~319--327. "---
+\newblock 10.1023/A:1011978921902.
+
+\bibitem{Baxendale19693}
+\selectlanguageifdefined{english}
+Baxendale,~J. Fluorescence in the nanosecond pulse radiolysis of dioxan~/
+  J.~Baxendale, D.~Beaumond, M.~Rodgers~// Chemical Physics Letters. "---
+\newblock 1969. "---
+\newblock Vol.~4, {\cyr\textnumero}~1. "---
+\newblock P.~3 -- 4.
+
+\bibitem{Ausloos198497}
+\selectlanguageifdefined{english}
+Radiation-induced ionization and excitation in liquid p-dioxane~/ P.~Ausloos,
+  C.~Lutz, F.~Schwartz, S.~Lias~// Radiation Physics and Chemistry (1977). "---
+\newblock 1984. "---
+\newblock Vol.~23, {\cyr\textnumero} 1–2. "---
+\newblock P.~97 -- 104.
+
+\bibitem{martini}
+\selectlanguageifdefined{english}
+Martini,~I.~B. Mechanisms of the ultrafast production and recombination of
+  solvated electrons in weakly polar fluids: Comparison of multiphoton
+  ionization and detachment via the charge-transfer-to-solvent transition of
+  na[sup -] in thf~/ I.~B. Martini, E.~R. Barthel, B.~J. Schwartz~// The
+  Journal of Chemical Physics. "---
+\newblock 2000. "---
+\newblock Vol. 113, {\cyr\textnumero}~24. "---
+\newblock P.~11245--11257.
+
+\bibitem{doi:10.1021/jp809413x}
+\selectlanguageifdefined{english}
+Length and time-dependent rates in diffusion-controlled reactions with
+  conjugated polymers~/ P.~Sreearunothai, S.~Asaoka, A.~R. Cook, J.~R.
+  Miller~// The Journal of Physical Chemistry A. "---
+\newblock 2009. "---
+\newblock Vol. 113, {\cyr\textnumero}~12. "---
+\newblock P.~2786--2795.
+
+\bibitem{doi:10.1021/ja062596h}
+\selectlanguageifdefined{english}
+Takeda,~N. Nature and energies of electrons and holes in a conjugated polymer,
+  polyfluorene~/ N.~Takeda, S.~Asaoka, J.~R. Miller~// Journal of the American
+  Chemical Society. "---
+\newblock 2006. "---
+\newblock Vol. 128, {\cyr\textnumero}~50. "---
+\newblock P.~16073--16082.
+
+\bibitem{springerlink:10.1023/A:1011978921902}
+\selectlanguageifdefined{english}
+Radiation chemistry of organic molecules in solid rare gas matrices: 2.
+  selective deprotonation of the primary radical cations upon irradiation of
+  oxygen-containing molecules in xenon matrices~/ V.~I. Feldman, F.~F. Sukhov,
+  A.~Y. Orlov, N.~A. Shmakova~// High Energy Chemistry. "---
+\newblock 2001. "---
+\newblock Vol.~35. "---
+\newblock P.~319--327. "---
+\newblock 10.1023/A:1011978921902.
+
+\bibitem{SpectroscopicCapabilities}
+\selectlanguageifdefined{english}
+Bagryansky,~V.~A. Spectroscopic capabilities of the time-resolved magnetic
+  field effect technique as illustrated in the study of hexamethylethane
+  radical cation in liquid hexane~/ V.~A. Bagryansky, V.~I. Borovkov, Y.~N.
+  Molin~// Phys. Chem. Chem. Phys. "---
+\newblock 2004. "---
+\newblock Vol.~6. "---
+\newblock P.~924--928.
+
+\bibitem{bagryansky:224503}
+\selectlanguageifdefined{english}
+Spin evolution of radical pair with radical containing two groups of equivalent
+  magnetic nuclei~/ V.~A. Bagryansky, K.~L. Ivanov, V.~I. Borovkov et~al.~//
+  The Journal of Chemical Physics. "---
+\newblock 2005. "---
+\newblock Vol. 122, {\cyr\textnumero}~22. "---
+\newblock P.~224503.
+
+\bibitem{0036-021X-76-6-R02}
+\selectlanguageifdefined{english}
+Bagryansky,~V.~A. Quantum beats in radical pairs~/ V.~A. Bagryansky, V.~I.
+  Borovkov, Y.~N. Molin~// Russian Chemical Reviews. "---
+\newblock 2007. "---
+\newblock Vol.~76, {\cyr\textnumero}~6. "---
+\newblock P.~493.
+
+\bibitem{springerlink:10.1134/S0012501607080076}
+\selectlanguageifdefined{english}
+Detection of branched alkane radical cations in solutions by the method of the
+  time-resolved magnetic field effect~/ P.~Potashov, V.~Borovkov,
+  L.~Shchegoleva et~al.~// Doklady Physical Chemistry. "---
+\newblock 2007. "---
+\newblock Vol. 415. "---
+\newblock P.~228--231. "---
+\newblock 10.1134/S0012501607080076.
+
+\bibitem{schulten:3292}
+\selectlanguageifdefined{english}
+Schulten,~K. Semiclassical description of electron spin motion in radicals
+  including the effect of electron hopping~/ K.~Schulten, P.~G. Wolynes~// The
+  Journal of Chemical Physics. "---
+\newblock 1978. "---
+\newblock Vol.~68, {\cyr\textnumero}~7. "---
+\newblock P.~3292--3297.
+
+\bibitem{knapp:1878}
+\selectlanguageifdefined{english}
+Knapp,~E.-W. Magnetic field effect on the hyperfine-induced electron spin
+  motion in radicals undergoing diamagnetic--paramagnetic exchange~/ E.-W.
+  Knapp, K.~Schulten~// The Journal of Chemical Physics. "---
+\newblock 1979. "---
+\newblock Vol.~71, {\cyr\textnumero}~4. "---
+\newblock P.~1878--1883.
+
+\bibitem{gamess}
+\selectlanguageifdefined{english}
+Gamess, computational chemistry software program. \BibUrl{
+  http://www.msg.chem.iastate.edu/gamess/}.
+
+\end{thebibliography}
